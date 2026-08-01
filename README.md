@@ -4,7 +4,7 @@ apt install git -y
 
 pkg install python python2 && pip2 install requests mechanize
 
-git clone https://htx25269-wq.github.io/Dragon-Ethical-zone-B/
+git clone https://github.com/fikrado/JOKER-burtal-force
 
 cd DRAGONETHICALZONE-burtal-force
 
